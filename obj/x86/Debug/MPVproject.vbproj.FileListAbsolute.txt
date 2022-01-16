@@ -1,0 +1,10 @@
+D:\oti\mpv\MPVproject\MPVproject\bin\Debug\MPVproject.exe.config
+D:\oti\mpv\MPVproject\MPVproject\bin\Debug\MPVproject.exe
+D:\oti\mpv\MPVproject\MPVproject\bin\Debug\MPVproject.pdb
+D:\oti\mpv\MPVproject\MPVproject\bin\Debug\MPVproject.xml
+D:\oti\mpv\MPVproject\MPVproject\obj\x86\Debug\MPVproject.Resources.resources
+D:\oti\mpv\MPVproject\MPVproject\obj\x86\Debug\MPVproject.vbproj.GenerateResource.Cache
+D:\oti\mpv\MPVproject\MPVproject\obj\x86\Debug\MPVproject.exe
+D:\oti\mpv\MPVproject\MPVproject\obj\x86\Debug\MPVproject.xml
+D:\oti\mpv\MPVproject\MPVproject\obj\x86\Debug\MPVproject.pdb
+D:\oti\mpv\MPVproject\MPVproject\obj\x86\Debug\MPVproject.Recipes.resources
